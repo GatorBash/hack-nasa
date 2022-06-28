@@ -7,5 +7,5 @@
 first things first.
 `cd` in to the hack-nasa dir
 `chmod +x *.sh`
-then just run the script using ./<filename>
+then just run the script using `./<filename>`
 
